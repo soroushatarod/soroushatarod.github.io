@@ -923,5 +923,8 @@
 		padding:0 10px;
 	}
 
-
+	.employment-ul li
+	{
+	 line-height:1.5em;
+	}
 }
